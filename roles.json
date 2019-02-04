@@ -1,0 +1,11 @@
+{
+  "students": {
+    "testathorStudent": "true",
+  },
+  "tutors": {
+    "testathorTutor": "true",
+  },
+  "admins": {
+    "JunWei96": true,
+  }
+}
