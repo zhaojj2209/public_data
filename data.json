@@ -10,6 +10,11 @@
       "JunWei96": "true"
     }
   },
+  "students-allocation": {
+    "testathorStudent": {
+      "teamId": "W12-3",
+    }
+  },
   "team-structure": {
     "W12-3": {
       "testathorStudent": "true",
@@ -18,6 +23,11 @@
   },
   "tutor-allocation": {
     "testathorTutor": {
+      "W12-3": "true"
+    }
+  },
+  "admins-allocation": {
+    "JunWei96": {
       "W12-3": "true"
     }
   }
