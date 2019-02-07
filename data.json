@@ -10,15 +10,15 @@
       "JunWei96": "true"
     }
   },
-  "students-allocation": {
-    "testathorStudent": {
-      "teamId": "W12-3",
-    }
-  },
   "team-structure": {
     "W12-3": {
       "testathorStudent": "true",
       "JunWei96": "true"
+    }
+  },
+  "students-allocation": {
+    "testathorStudent": {
+      "teamId": "W12-3"
     }
   },
   "tutors-allocation": {
