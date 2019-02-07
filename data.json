@@ -1,0 +1,24 @@
+{
+  "roles": {
+    "students": {
+      "testathorStudent": "true",
+    },
+    "tutors": {
+      "testathorTutor": "true",
+    },
+    "admins": {
+      "JunWei96": "true",
+    }
+  },
+  "team-structure": {
+    "W12-3": {
+      "testathorStudent": "true",
+      "JunWei96": "true",
+    }
+  },
+  "tutor-allocation": {
+    "testathorTutor": {
+      "W12-3": "true",
+    }
+  }
+}
