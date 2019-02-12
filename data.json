@@ -1,7 +1,8 @@
 {
   "roles": {
     "students": {
-      "testathorStudent": "true"
+      "testathorStudent": "true",
+      "RonakLakhotia": "true"
     },
     "tutors": {
       "testathorTutor": "true"
