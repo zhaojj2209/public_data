@@ -28,6 +28,9 @@
   "tutors-allocation": {
     "testathorTutor": {
       "W12-3": "true"
+    },
+    "RonakLakhotia": {
+      "teamId": "W12-3"
     }
   },
   "admins-allocation": {
