@@ -8,7 +8,8 @@
       "testathorTutor": "true"
     },
     "admins": {
-      "JunWei96": "true"
+      "JunWei96": "true",
+      "damithc": "true"
     }
   },
   "team-structure": {
@@ -39,6 +40,9 @@
   },
   "admins-allocation": {
     "JunWei96": {
+      "W12-3": "true"
+    },
+    "damithc": {
       "W12-3": "true"
     }
   }
