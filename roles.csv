@@ -1,3 +1,9 @@
-students,testathorStudent,RonakLakhotia,,,
-tutors,testathorTutor,,,,
-admins,JunWei96,damitc,RonakLakhotia,ptvrajsk,KevinCJH
+"name", "members"
+"students", "RonakLakhotia"
+"students", "testathorStudent"
+"tutors", "testathorTutor"
+"admin", "JunWei96"
+"admin", "damithc"
+"admin", "RonakLakhotia"
+"admin", "ptvrajsk"
+"admin", "KevinCJH"
