@@ -1,7 +1,7 @@
 roles,members
-students,RonakLakhotia
-students,testathorStudent
-tutors,testathorTutor
+student,RonakLakhotia
+student,testathorStudent
+tutor,testathorTutor
 admin,JunWei96
 admin,damithc
 admin,RonakLakhotia
