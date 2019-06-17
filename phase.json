@@ -13,7 +13,7 @@
       "repositoryName": "pe-results"
     },
     {
-      "name": "Phase3"
+      "name": "Phase3",
       "isAccessible": false,
       "owner": "ORG",
       "repositoryName": "pe-evaluation"
