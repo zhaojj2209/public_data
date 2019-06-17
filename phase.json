@@ -1,16 +1,16 @@
 {
   "phases": [
-    "phase1": {
+    {
       "isAccessible": true,
       "owner": "SELF",
       "repositoryName": "pe"
     },
-    "phase2": {
+    {
       "isAccessible": false,
       "owner": "ORG",
       "repositoryName": "pe-results"
     },
-    "phase3": {
+    {
       "isAccessible": false,
       "owner": "ORG",
       "repositoryName": "pe-evaluation"
