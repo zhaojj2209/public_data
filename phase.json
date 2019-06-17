@@ -1,14 +1,14 @@
 {
   "phase1": {
     "accessibility": true,
-    "repository": "someurl.com"
+    "repository": "https://github.com/testathorStudent/pe"
   },
   "phase2": {
     "accessibility": false,
-    "repository": "someurl.com"
+    "repository": "https://github.com/CATcher-org/pe-results"
   },
   "phase3": {
     "accessibility": false,
-    "repository": "someurl.com"
+    "repository": "https://github.com/CATcher-org/pe-evaluation"
   },
 }
