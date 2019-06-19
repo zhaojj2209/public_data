@@ -1,0 +1,7 @@
+{
+  "open-phases" : ["pe-dev-responses"],
+  "phase1-repo": "pe-bug-reports",
+  "phase2-repo": "pe-dev-responses",
+  "phase3-repo": "pe-tester-responses",
+  "phase4-repo": "pe-tutor-moderation"
+}
