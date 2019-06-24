@@ -1,7 +1,6 @@
 {
   "openPhases" : ["phase1"],
   "phase1": "pe",
-  "phase2": "pe-dev-responses",
-  "phase3": "pe-tester-responses",
-  "phase4": "pe-tutor-moderation"
+  "phase2": "pe-results",
+  "phase3": "pe-evaluation"
 }
