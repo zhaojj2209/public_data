@@ -1,5 +1,5 @@
 {
-  "openPhases" : ["phase1"],
+  "openPhases" : ["phase1", "phase2", "phase3"],
   "phase1": "pe",
   "phase2": "pe-results",
   "phase3": "pe-evaluation"
