@@ -1,6 +1,7 @@
 {
-  "openPhases" : ["phase2", "phase1", "phase3"],
+  "openPhases" : ["phase2", "phaseTesterResponse", "phase1", "phase3"],
   "phase1": "pe",
   "phase2": "pe-results",
+  "phaseTesterResponse": "pe",
   "phase3": "pe-evaluation"
 }
